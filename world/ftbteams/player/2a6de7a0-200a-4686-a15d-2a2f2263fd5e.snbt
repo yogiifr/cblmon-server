@@ -1,0 +1,17 @@
+{
+	id: "2a6de7a0-200a-4686-a15d-2a2f2263fd5e"
+	type: "player"
+	player_name: "sunnplasma"
+	ranks: {
+		2a6de7a0-200a-4686-a15d-2a2f2263fd5e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "sunnplasma"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFD3"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

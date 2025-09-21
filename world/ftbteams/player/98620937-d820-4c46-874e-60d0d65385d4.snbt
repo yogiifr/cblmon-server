@@ -1,0 +1,17 @@
+{
+	id: "98620937-d820-4c46-874e-60d0d65385d4"
+	type: "player"
+	player_name: "FurqonMC"
+	ranks: {
+		98620937-d820-4c46-874e-60d0d65385d4: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "FurqonMC"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5959FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

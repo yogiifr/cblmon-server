@@ -1,0 +1,91 @@
+{
+  "uuid": "2a6de7a0-200a-4686-a15d-2a2f2263fd5e",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "1e62d508-f80a-4a42-b532-496610965be6",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 3,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 3,
+    "totalBattleVictoryCount": 60,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 54,
+    "totalPvNBattleVictoryCount": 6,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "water": 1,
+      "bug": 1,
+      "rock": 1,
+      "steel": 1,
+      "electric": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:sentret": 4,
+      "cobblemon:kricketot": 1,
+      "cobblemon:cherubi": 5,
+      "cobblemon:magnemite": 1,
+      "cobblemon:starly": 1,
+      "cobblemon:yamper": 1,
+      "cobblemon:combee": 1,
+      "cobblemon:ledyba": 1,
+      "cobblemon:buneary": 1,
+      "cobblemon:blipbug": 2,
+      "cobblemon:spinarak": 1,
+      "cobblemon:burmy": 1,
+      "cobblemon:pidgey": 1,
+      "cobblemon:seedot": 1,
+      "cobblemon:vivillon": 1,
+      "cobblemon:koffing": 1,
+      "cobblemon:phantump": 1,
+      "cobblemon:pineco": 2,
+      "cobblemon:patrat": 1,
+      "cobblemon:miltank": 1,
+      "cobblemon:murkrow": 1,
+      "cobblemon:deerling": 2,
+      "cobblemon:meowth": 1,
+      "cobblemon:nickit": 1,
+      "cobblemon:yungoos": 2,
+      "cobblemon:zangoose": 1,
+      "cobblemon:bouffalant": 1,
+      "cobblemon:grumpig": 1,
+      "cobblemon:arboliva": 1,
+      "cobblemon:mareep": 1,
+      "cobblemon:electrike": 1,
+      "cobblemon:trevenant": 1,
+      "cobblemon:skwovet": 1,
+      "cobblemon:aromatisse": 1,
+      "cobblemon:pelipper": 1,
+      "cobblemon:clobbopus": 1,
+      "cobblemon:solrock": 1,
+      "cobblemon:yanmega": 1,
+      "cobblemon:swellow": 1,
+      "cobblemon:gimmighoul": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:combusken": [
+        "female"
+      ],
+      "cobblemon:blaziken": [
+        "female"
+      ],
+      "cobblemon:araquanid": [
+        "male"
+      ],
+      "cobblemon:stakataka": [
+        "genderless"
+      ],
+      "cobblemon:pikachu": [
+        "female"
+      ],
+      "cobblemon:raichu": [
+        "female"
+      ]
+    }
+  }
+}

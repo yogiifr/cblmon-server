@@ -1,0 +1,48 @@
+{
+  "uuid": "98620937-d820-4c46-874e-60d0d65385d4",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "e73b582c-8780-47fd-a19f-6253fbdd2e15",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 5,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 0,
+    "totalBattleVictoryCount": 4,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 4,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "normal": 1,
+      "dark": 1,
+      "ice": 1,
+      "ghost": 1,
+      "poison": 2,
+      "fighting": 1
+    },
+    "totalDefeatedCounts": {},
+    "aspectsCollected": {
+      "cobblemon:lechonk": [
+        "female"
+      ],
+      "cobblemon:sneasel": [
+        "male"
+      ],
+      "cobblemon:gastly": [
+        "female"
+      ],
+      "cobblemon:koffing": [
+        "female"
+      ],
+      "cobblemon:grapploct": [
+        "female"
+      ]
+    }
+  }
+}
