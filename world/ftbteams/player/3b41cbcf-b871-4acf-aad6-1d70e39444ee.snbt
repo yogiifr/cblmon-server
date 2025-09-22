@@ -1,0 +1,17 @@
+{
+	id: "3b41cbcf-b871-4acf-aad6-1d70e39444ee"
+	type: "player"
+	player_name: "dorcik"
+	ranks: {
+		3b41cbcf-b871-4acf-aad6-1d70e39444ee: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "dorcik"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF7E59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
